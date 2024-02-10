@@ -1,7 +1,7 @@
 ---
 title: 'Jumping a Car'
 date: 2024-02-04T14:47:56-08:00
-draft: true
+draft: false
 ---
 
 1. Locate battery (jumper) terminals
