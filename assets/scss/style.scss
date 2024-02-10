@@ -1,5 +1,5 @@
-$paradise-pink: #EA1F4B;
-$paradise-pink-light: #EF5778;
+$orange: #f7a546;
+$orange-light: #ffd685;
 
 html {
   font-size: 62.5%;
@@ -29,10 +29,10 @@ p, ul, ol {
 
 a {
   text-decoration: none;
-  color: $paradise-pink;
+  color: $orange;
 
   &:hover {
-    color: $paradise-pink-light;
+    color: $orange-light;
   }
 }
 
@@ -40,4 +40,10 @@ article {
   padding: 2rem 1rem;
   max-width: calc(30em + 2rem);
   margin: 0 auto;
+}
+
+blockquote p {
+  padding: 15px;
+  background: #eee;
+  border-radius: 5px;
 }
