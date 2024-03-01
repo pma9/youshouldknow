@@ -1,7 +1,7 @@
 ---
 title: 'Change a Tire'
 date: 2024-02-09T22:42:50-08:00
-draft: true
+draft: false
 ---
 
 1. Pull over and turn your hazard signal on
