@@ -1,7 +1,7 @@
 ---
 title: 'Making a Fire'
 date: 2024-02-09T21:59:02-08:00
-draft: true
+draft: false
 ---
 
 ### Fire Plow
